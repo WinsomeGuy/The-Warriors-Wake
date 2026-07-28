@@ -1,0 +1,28 @@
+MODDER'S CONDITIONAL SOURCE-AVAILABLE LICENSE
+Copyright (c) 2026 WinsomeGuy. All rights reserved.
+
+1. DEFINITIONS
+* "Software" refers to the mod files, source code, assets, graphics, and binaries associated with this project.
+* "Author" refers to the copyright holder listed above.
+* "Substantial Transformation" is strictly defined as a complete overhaul where at least 50% of the original codebase, assets, or core functionality has been fundamentally rewritten, replaced, or expanded upon. Minor adjustments, configuration tweaks, re-textures, value balancing, or simple bug fixes do not qualify.
+
+2. PERMITTED USES & PROHIBITED DISTRIBUTION
+You are granted a limited, non-exclusive, non-transferable license to download, view the source code, and execute this Software strictly for personal, non-commercial entertainment purposes. You may not distribute, host, reupload, or mirror the original Software on any public platform, website, or server without prior written consent from the Author, except as permitted in Section 3.
+
+3. CONDITIONAL RIGHTS TO MODIFY AND DISTRIBUTE
+You may only modify, remix, fork, or publicly redistribute this Software if you meet at least one of the following two explicit conditions:
+
+   A. THE OVERHAUL RULE: The modified version qualifies as a Substantial Transformation (as defined in Section 1). The burden of proof rests on the modifying party to demonstrate this scale of change if challenged by the Author.
+   
+   B. THE ABANDONWARE CLAUSE: The Author has completely ceased all active development, updates, and public communication regarding this Software across all official distribution channels for a continuous period of at least eighteen (18) consecutive months. If this timeline is met, the Software is considered community-owned for non-commercial preservation, allowing public forks and maintenance.
+
+4. ABSOLUTE COMMERCIAL BAN
+Under no circumstances may this Software, or any derivative works created under Section 3, be sold, monetized, rented, or placed behind a paywall (including, but not limited to, paid Patreon tiers, premium mod site downloads, or integrated advertisements) without an explicit, separate commercial agreement from the Author.
+
+5. TERMINATION OF RIGHTS
+Any violation of the terms outlined in this License automatically and immediately terminates your permission to use, modify, or distribute this Software. The Author reserves the right to issue takedown notices (including DMCA requests) to any platform hosting unauthorized copies or derivatives.
+
+6. DISCLAIMER OF WARRANTY AND LIMITATION OF LIABILITY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. 
+
+IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE, OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
